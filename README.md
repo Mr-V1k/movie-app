@@ -4,9 +4,9 @@ This application is made using springboot and reactjs.
 
 ## Client 
 Some client images of the application:
-![Home Page](Docs\homepage-ss.png)
-![Trailer Page](Docs\trailer-ss.png)
-![Review Page](Docs\review-ss.png)
+![Home Page](Docs/homepage-ss.png)
+![Trailer Page](Docs/trailer-ss.png)
+![Review Page](Docs/review-ss.png)
 ***
 
 ## Server
